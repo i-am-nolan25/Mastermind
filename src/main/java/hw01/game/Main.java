@@ -36,6 +36,7 @@ public class Main {
         GameManager game = new GameManager();
         Scanner scnr = new Scanner(System.in);
         boolean isCompleted = false;
+        System.out.println("Welcome to MasterMind!");
         System.out.println("Please enter a following option for a solver algorithm: user, random, minimax, dfs");
 
         while (!isCompleted) {
