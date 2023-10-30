@@ -1,7 +1,22 @@
 # Mastermind Game
 
+![Mastermind Game](./src/main/resources/Mastermind.mp4)
+
 ## Overview
 Mastermind Java Game is an engaging and interactive console-based application inspired by the classic Mastermind board game. It challenges players to test their logic and deduction skills by guessing a secret code within a limited number of attempts. In our latest update, we've introduced three new algorithms: random, minimax, and DFS (Depth-First Search) to enhance the gameplay experience and offer varied strategic approaches for players.
+
+## Project Information
+Bucknell University
+Lewisburg, PA
+
+### Course Info
+Instructor: Professor Stough
+Semester: 2023FW
+Class: CSCI 205 - Software Engineering & Design
+
+### Team Members
+- [Nolan Lwin](https://github.com/i-am-nolan25/) - Class of 2026, Computer Science
+- [Chang Min Bark](https://github.com/changminbark) - Class of 2026, Computer Science and Engineering
 
 ## Key Features 🚀
 - **Code Generation**: The game generates a secret code made up of a sequence of four number pegs for the player to guess.
@@ -33,11 +48,14 @@ Open the project in your preferred IDE and navigate to the following path to run
 ## Usage
 After launching the game, follow these steps:
 
-1. 
-Choose the algorithm for code generation (Random, Minimax, DFS).
-2. Input your guesses based on the feedback provided by the game.
-3. Try to guess the correct sequence within the allotted attempts.
+1. Choose how you want to play the Mastermind game through 4 options: User, Random, Minimax, and DFS.
+2. If user, input your guesses based on the feedback provided by the game.
+3. Try to guess the correct sequence within the allotted 12 attempts.
 4. Enjoy and challenge your logic and deduction skills!
+
+2. If one of the algorithms, enter the number of games you want to simulate.
+3. See the statistics of the algorithm such as the shortest and longest guess for the Mastermind game within the number of games you simulate.
+4. Enjoy and test how efficient each algorithm is.
 
 ## Dependencies
 Java Runtime Environment (JRE)
@@ -58,17 +76,3 @@ Please create a new [issue](https://github.com/i-am-nolan25/Mastermind/issues/ne
 
 ## Contact 📬
 For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to me through my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
-
-Bucknell University
-
-Lewisburg, PA
-
-### Course Info
-Instructor: Professor Stough
-
-Semester: 2023FW
-
-### Team Information
-Chang Min Bark - Class of 2026, Computer Science and Engineering
-
-Nolan Lwin - Class of 2026, Computer Science
