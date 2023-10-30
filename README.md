@@ -1,6 +1,6 @@
 # Mastermind Game
 
-![Mastermind Game](./src/main/resources/Mastermind.mp4)
+https://github.com/i-am-nolan25/Mastermind/assets/113712250/aed0c4be-cc46-4f11-bc66-ced0db161426
 
 ## Overview
 Mastermind Java Game is an engaging and interactive console-based application inspired by the classic Mastermind board game. It challenges players to test their logic and deduction skills by guessing a secret code within a limited number of attempts. In our latest update, we've introduced three new algorithms: random, minimax, and DFS (Depth-First Search) to enhance the gameplay experience and offer varied strategic approaches for players.
