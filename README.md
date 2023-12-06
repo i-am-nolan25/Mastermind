@@ -7,15 +7,19 @@ Mastermind Java Game is an engaging and interactive console-based application in
 
 ## Project Information
 Bucknell University
+
 Lewisburg, PA
 
 ### Course Info
 Instructor: Professor Stough
+
 Semester: 2023FW
+
 Class: CSCI 205 - Software Engineering & Design
 
 ### Team Members
 - [Nolan Lwin](https://github.com/i-am-nolan25/) - Class of 2026, Computer Science
+
 - [Chang Min Bark](https://github.com/changminbark) - Class of 2026, Computer Science and Engineering
 
 ## Key Features 🚀
